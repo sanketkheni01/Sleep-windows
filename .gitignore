@@ -1,0 +1,8 @@
+/Server/node_modules**
+/Server/.vscode
+/Server/daemon
+/Server/yarn.lock
+/Server/yarn-error.log
+firebase.json
+SleepApp/yarn.lock
+SleepApp/android/app/google-services.json
