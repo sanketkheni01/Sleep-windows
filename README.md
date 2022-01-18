@@ -1,5 +1,6 @@
 # Sleep-windows
 Sleep your pc from anywhere
+Installation:
 1. Create a firebase project and get `google-services.json` file and place it in `android` folder
 2. now get firebase service account file
 
